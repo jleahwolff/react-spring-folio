@@ -1,0 +1,37 @@
+:root{
+    --navy: #192831;
+    --gray: #324552;
+    --light-gray: #dae2ea;
+    --light-blue: #27aae1;
+    --dark-blue: #1b75bc;
+    --violet: #262262;
+    --green-blue: #00a79d;
+    --yellow-green: #8dc63f;
+    }
+
+section{
+    height:70vh;
+    width:80%;
+    background-color:var(--navy);
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1rem;
+    margin: 2rem auto;
+    padding: 1rem;
+    color: var(--gray);
+}
+
+img{
+    height: 10vh;
+}
+
+button{
+    background-color: lightskyblue;
+    border: none;
+    border-radius: 1rem;
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: 800;
+}

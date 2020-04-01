@@ -1,0 +1,34 @@
+:root{
+    --navy: #192831;
+    --gray: #324552;
+    --light-gray: #dae2ea;
+    --light-blue: #27aae1;
+    --dark-blue: #1b75bc;
+    --violet: #262262;
+    --green-blue: #00a79d;
+    --yellow-green: #8dc63f;
+    }
+
+.navigation-container{
+    background-color: var(--light-gray);
+    padding: 1rem;
+}
+
+.nav-content{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:80%;
+    margin: 0 auto;
+    height: 10vh;
+    align-items: center;
+}
+
+img{
+    height: 100%;
+}
+
+h4{
+    color:var(--gray);
+    font-size: 1.6rem;
+}
