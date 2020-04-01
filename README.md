@@ -7,22 +7,16 @@ Styling:
 - output.css: App and Footer
 - navigation.css: Navigation
 - parallax.css: Parallax
-________
-Colors 🌈
-________
---navy: #192831;
-__________________
---gray: #324552;
-__________________
---light-gray: #dae2ea;
-________________________
---light-blue: #27aae1;
-________________________
---dark-blue: #1b75bc;
-______________________
---violet: #262262;
-_____________________
---green-blue: #00a79d;
-_______________________
---yellow-green: #8dc63f;
-________________________
+
+
+|Colors 🌈|
+------------
+|--navy: #192831;|
+|--gray: #324552;|
+|--light-gray: #dae2ea;|
+|--light-blue: #27aae1;|
+|--dark-blue: #1b75bc;|
+|--violet: #262262;|
+|--green-blue: #00a79d;|
+|--yellow-green: #8dc63f;|
+
