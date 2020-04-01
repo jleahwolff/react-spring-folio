@@ -10,7 +10,7 @@
     }
 
 .navigation-container{
-    background-color: var(--light-gray);
+    background-color: var(--gray);
     padding: 1rem;
 }
 
@@ -29,6 +29,6 @@ img{
 }
 
 h4{
-    color:var(--gray);
+    color:var(--light-gray);
     font-size: 1.6rem;
 }
