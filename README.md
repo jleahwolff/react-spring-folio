@@ -8,23 +8,21 @@ Styling:
 - navigation.css: Navigation
 - parallax.css: Parallax
 ________
-|:root{|
+Colors 🌈
 ________
-|--navy: #192831;|
+--navy: #192831;
 __________________
-|--gray: #324552;|
+--gray: #324552;
 __________________
-|--light-gray: #dae2ea;|
+--light-gray: #dae2ea;
 ________________________
-|--light-blue: #27aae1;|
+--light-blue: #27aae1;
 ________________________
-|--dark-blue: #1b75bc;|
+--dark-blue: #1b75bc;
 ______________________
-|--violet: #262262;|
+--violet: #262262;
 _____________________
-|--green-blue: #00a79d;|
+--green-blue: #00a79d;
 _______________________
-|--yellow-green: #8dc63f;|
+--yellow-green: #8dc63f;
 ________________________
-|}|
-______
