@@ -1,14 +1,16 @@
 import React from 'react';
 import './sass/output.css';
-import Parallax from "./components/Parallax.js";
+import ParallaxComponent from "./components/ParallaxComponent.js";
 import Navigation from "./components/Navigation";
+import ReactTooltip from 'react-tooltip';
 
 function App() {
 
   return (
     <div className="App">
       <Navigation />
-      <Parallax />
+      <ParallaxComponent />
+      <ReactTooltip />
       <div className="footer">
         <h4> Strain Watch ® </h4>
         <p>Careers | Money | College | Loans | Coronavirus | Stuck-at-home | Ozarks on Netflix</p>
